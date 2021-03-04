@@ -1,15 +1,16 @@
-id: opecha:P000506
+id: P000506
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15521
   title: གྲངས་རིག་བསམ་བློའི་ཐབས་ལམ་རྣམ་བཤད།
-  volume:
+  author: ''
+  volumes:
     0a86be95d95c4d4b87c318c587f81508:
       image_group_id: I1KG15841
       title: Volume 1 of grangs rig bsam blo'i thabs lam rnam bshad/
       volume_number: 1
       total_pages: 236
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གྲངས་རིག་བསམ་བློའི་ཐབས་ལམ་རྣམ་བཤད།
   author: ''
